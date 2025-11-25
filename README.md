@@ -9,3 +9,8 @@ Hello, my name is Mitchell! I am a 4th year PhD Candidate in the Interfacial Wat
 ## Water Quality Impacts in Temperate Lakes and Rivers
 
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
+
+## My Accounts
+[My LinkedIn](https://www.linkedin.com/in/mitchelljans/)
+[My Google Scholar](https://scholar.google.com/citations?user=iKfFNVEAAAAJ&hl=en&oi=ao)
+
