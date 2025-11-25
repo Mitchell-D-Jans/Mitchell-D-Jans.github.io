@@ -3,7 +3,7 @@
 
 <p align="center">
   Hello, my name is Mitchell! I am a 4th year PhD Candidate in the Interfacial Water Group at Princeton University. 
-  I am advised by Professor <strong>Ian Bourg</strong>.
+  I am advised by Professor Ian Bourg.
 </p>
 <img src="/Self.jpg" style="width:50%;">
 
