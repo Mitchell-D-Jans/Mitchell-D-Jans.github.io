@@ -5,9 +5,10 @@
   Hello, my name is Mitchell! I am a 4th year PhD Candidate in the Interfacial Water Group at Princeton University. 
   I am advised by Professor Ian Bourg.
 </p>
+
 <center>
-<img src="/Self.jpg" style="width:50%;">
-<\center>
+  <img src="/Self.jpg" style="width:50%;">
+</center>
 
 
 ## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
