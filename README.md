@@ -19,7 +19,7 @@
 ## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
 ### Impact Clay Minerals have on Sediment Gravity Flows
 
-<video width="640" autoplay loop muted playsinline>
+<video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
   <source src="SGFExample.mp4" type="video/mp4">
 </video>
 
