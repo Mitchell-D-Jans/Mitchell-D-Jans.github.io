@@ -30,7 +30,7 @@
 ### Monitoring Surface Water Quality
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
-### Biopolymer Application to reduce Sediment Erodibility
+### Biopolymer Application to Reduce Sediment Erodibility
 
 ## My Accounts
 [My LinkedIn](https://www.linkedin.com/in/mitchelljans/)  
