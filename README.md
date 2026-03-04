@@ -25,6 +25,12 @@
 
 
 ### Impact Clay Content has on Sediment Bed Erodibility
+<video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
+  <source src="ErosionEvent1.mp4" type="video/mp4">
+</video>
+<video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
+  <source src="ErosionEvent2.mp4" type="video/mp4">
+</video>
 ## Water Quality Impacts in Temperate Lakes and Rivers
 ### Historic Water Quality 
 ### Monitoring Surface Water Quality
