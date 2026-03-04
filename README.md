@@ -21,7 +21,6 @@
 
 <video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
   <source src="SGFExample.mp4" type="video/mp4">
-</video>
 
 
 ### Impact Clay Content has on Sediment Bed Erodibility
