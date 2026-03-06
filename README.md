@@ -46,8 +46,14 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
 <p align="center">
   <img src="/MeHg_Conc_Jans_HonorsThesis.png" style="width:50%;">
+    <figcaption>  
+    Adapted from Jans. (2022).
+  </figcaption>
 </p>
 ### Biopolymer Application to Reduce Sediment Erodibility
+## References
+Jans, M. D. (2022). Exploring Activated Carbon’s Impact on Mercury Geochemistry and Eutrophication 
+(Undergraduate honors thesis). University of Minnesota Duluth.
 
 ## My Accounts
 [My LinkedIn](https://www.linkedin.com/in/mitchelljans/)  
