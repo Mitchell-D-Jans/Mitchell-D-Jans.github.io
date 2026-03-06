@@ -44,6 +44,9 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ### Monitoring Surface Water Quality
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
+<p align="center">
+  <img src="/MeHg_Conc_Jans_HonorsThesis.png" style="width:50%;">
+</p>
 ### Biopolymer Application to Reduce Sediment Erodibility
 
 ## My Accounts
