@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="/Self.jpg" style="width:50%;">
+  <img src="/Self.jpg" style="width:40%;">
 </p>
 
 <p align="center">
@@ -57,16 +57,19 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
 <p align="center">
-  <img src="/MeHg_Conc_Jans_HonorsThesis.png" style="width:50%;">
-    <figcaption>  
-    Adapted from Jans. (2022).
-  </figcaption>
+  <img src="/MeHg_Conc_Jans_HonorsThesis.png" width="50%">
+</p>
+
+<p align="center">
+  <em>Adapted from Jans (2022).</em>
 </p>
 ### Biopolymer Application to Reduce Sediment Erodibility
 ## References
-Jans, M. D. (2022). Exploring Activated Carbon’s Impact on Mercury Geochemistry and Eutrophication 
-(Undergraduate honors thesis). University of Minnesota Duluth.
-Jans, M. D. (2020). Analysis and Digitization of Historical Water Quality in Western Lake Superior, University of Minnesota Virtual 2020 Undergraduate Research Symposium.
+## References
+
+- Jans, M. D. (2022). *Exploring Activated Carbon’s Impact on Mercury Geochemistry and Eutrophication*. Undergraduate Honors Thesis, University of Minnesota Duluth.
+
+- Jans, M. D. (2020). *Analysis and Digitization of Historical Water Quality in Western Lake Superior*. University of Minnesota Virtual Undergraduate Research Symposium.
 
 ## My Accounts
 [My LinkedIn](https://www.linkedin.com/in/mitchelljans/)  
