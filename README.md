@@ -35,12 +35,18 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
   <video width="700" autoplay loop muted playsinline controls>
     <source src="ErosionEvent1.mp4" type="video/mp4">
   </video>
-</p>
+</palign="center">
 <video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
   <source src="ErosionEvent2.mp4" type="video/mp4">
 </video>
 ## Water Quality Impacts in Temperate Lakes and Rivers
 ### Historic Water Quality 
+<p align="center">
+  <img src="/St_Louis_River_WaterQualityHistory.png" style="width:50%;">
+    <figcaption>  
+    Adapted from Jans. (2020).
+  </figcaption>
+</p>
 ### Monitoring Surface Water Quality
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
@@ -54,6 +60,7 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ## References
 Jans, M. D. (2022). Exploring Activated Carbon’s Impact on Mercury Geochemistry and Eutrophication 
 (Undergraduate honors thesis). University of Minnesota Duluth.
+Jans, M. D. (2020). Analysis and Digitization of Historical Water Quality in Western Lake Superior, University of Minnesota Virtual 2020 Undergraduate Research Symposium.
 
 ## My Accounts
 [My LinkedIn](https://www.linkedin.com/in/mitchelljans/)  
