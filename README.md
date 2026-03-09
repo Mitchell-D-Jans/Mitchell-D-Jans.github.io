@@ -35,17 +35,23 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
   <video width="700" autoplay loop muted playsinline controls>
     <source src="ErosionEvent1.mp4" type="video/mp4">
   </video>
-</palign="center">
-<video style="width:100%; max-width:700px;" autoplay loop muted playsinline controls>
-  <source src="ErosionEvent2.mp4" type="video/mp4">
-</video>
-## Water Quality Impacts in Temperate Lakes and Rivers
-### Historic Water Quality 
+</p>
+
 <p align="center">
-  <img src="/St_Louis_River_WaterQualityHistory.png" style="width:50%;">
-    <figcaption>  
-    Adapted from Jans. (2020).
-  </figcaption>
+  <video width="700" autoplay loop muted playsinline controls>
+    <source src="ErosionEvent2.mp4" type="video/mp4">
+  </video>
+</p>
+## Water Quality Impacts in Temperate Lakes and Rivers
+
+### Historic Water Quality
+
+<p align="center">
+  <img src="/St_Louis_River_WaterQualityHistory.png" width="50%">
+</p>
+
+<p align="center">
+  <em>Adapted from Jans (2020).</em>
 </p>
 ### Monitoring Surface Water Quality
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
