@@ -53,7 +53,7 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 <p align="center">
   <em>Adapted from Jans (2020).</em>
 </p>
-### Monitoring Surface Water Quality
+### Monitoring Surface Water Quality and Temperature
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
 <p align="center">
@@ -64,7 +64,10 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
   <em>Adapted from Jans (2022).</em>
 </p>
 ### Biopolymer Application to Reduce Sediment Erodibility
-## References
+<p align="center">
+  <img src="/JansViscosityBiopolymerAddition.png" width="50%">
+</p>
+
 ## References
 
 - Jans, M. D. (2022). *Exploring Activated Carbon’s Impact on Mercury Geochemistry and Eutrophication*. Undergraduate Honors Thesis, University of Minnesota Duluth.
