@@ -47,7 +47,7 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ### Historic Water Quality
 
 <p align="center">
-  <img src="/St_Louis_River_WaterQualityHistory.png" width="50%">
+  <img src="/St_Louis_River_WaterQualityHistory.png" width="70%">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ In this work, we collaborate with [experimental researchers](https://yang.cege.u
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
 ### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
 <p align="center">
-  <img src="/MeHg_Conc_Jans_HonorsThesis.png" width="50%">
+  <img src="/MeHg_Conc_Jans_HonorsThesis.png" width="70%">
 </p>
 
 <p align="center">
