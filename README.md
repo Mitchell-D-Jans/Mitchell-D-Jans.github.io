@@ -244,10 +244,10 @@
   </p>
  
   <nav class="tab-nav" role="tablist">
-    <button class="tab-btn active" onclick="switchTab('research', this)" role="tab">Research</button>
-    <button class="tab-btn" onclick="switchTab('water', this)" role="tab">Water Quality</button>
-    <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Engineering</button>
-    <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications</button>
+    <button class="tab-btn active" onclick="switchTab('research', this)" role="tab">Research: Sediment Transport</button>
+    <button class="tab-btn" onclick="switchTab('water', this)" role="tab">Research: Water Quality</button>
+    <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Research:Engineering Applications</button>
+    <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications and Presentations</button>
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
 </header>
