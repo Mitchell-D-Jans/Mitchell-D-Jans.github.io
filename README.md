@@ -239,7 +239,7 @@
   <p class="subtitle">PhD Candidate · Interfacial Water Group · Princeton University</p>
   <p class="bio">
     Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.
-    B.S. Civil Engineering, University of Minnesota Duluth (2022).
+    B.S. Civil Engineering, University of Minnesota Duluth (2022).<br>
     M.A. Civil &amp; Environmental Engineering, Princeton University (2024).
   </p>
  
