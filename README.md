@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -239,7 +238,8 @@
   <h1>Mitchell D. Jans</h1>
   <p class="subtitle">PhD Candidate · Interfacial Water Group · Princeton University</p>
   <p class="bio">
-    Advised by Professor Ian Bourg. B.S. Civil Engineering, University of Minnesota Duluth (2022).
+    Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.
+    B.S. Civil Engineering, University of Minnesota Duluth (2022).
     M.A. Civil &amp; Environmental Engineering, Princeton University (2024).
   </p>
  
