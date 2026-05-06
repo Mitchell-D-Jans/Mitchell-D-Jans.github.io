@@ -77,6 +77,7 @@
       gap: 0;
       margin-top: 2rem;
       border-top: 1px solid var(--rule);
+      overflow-x: auto;
     }
  
     .tab-btn {
@@ -84,7 +85,7 @@
       font-size: .78rem;
       letter-spacing: .08em;
       text-transform: uppercase;
-      padding: 0 2rem;
+      padding: 0 1.5rem;
       height: var(--tab-h);
       border: none;
       background: transparent;
@@ -92,6 +93,7 @@
       cursor: pointer;
       position: relative;
       transition: color .2s;
+      white-space: nowrap;
     }
  
     .tab-btn::after {
@@ -238,7 +240,7 @@
   <h1>Mitchell D. Jans</h1>
   <p class="subtitle">PhD Candidate · Interfacial Water Group · Princeton University</p>
   <p class="bio">
-    Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.
+    Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.<br>
     B.S. Civil Engineering, University of Minnesota Duluth (2022).<br>
     M.A. Civil &amp; Environmental Engineering, Princeton University (2024).
   </p>
@@ -246,7 +248,7 @@
   <nav class="tab-nav" role="tablist">
     <button class="tab-btn active" onclick="switchTab('research', this)" role="tab">Research: Sediment Transport</button>
     <button class="tab-btn" onclick="switchTab('water', this)" role="tab">Research: Water Quality</button>
-    <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Research:Engineering Applications</button>
+    <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Research: Engineering Applications</button>
     <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications and Presentations</button>
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
@@ -345,7 +347,7 @@
  
 <!-- ═══ PUBLICATIONS ═══ -->
 <section id="publications" class="tab-panel" role="tabpanel">
-  <h2>References &amp; Publications</h2>
+  <h2>Publications and Presentations</h2>
   <ul class="ref-list">
     <li>
       Jans, M. D. (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
