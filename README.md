@@ -356,6 +356,7 @@
 <li>
   M.D. Jans, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
 </li>
+    </ul> 
   <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
