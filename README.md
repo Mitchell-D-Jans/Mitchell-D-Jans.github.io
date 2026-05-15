@@ -347,14 +347,21 @@
  
 <!-- ═══ PUBLICATIONS ═══ -->
 <section id="publications" class="tab-panel" role="tabpanel">
-  <h2>Publications and Presentations</h2>
+  <h2>Publications</h2>
+    <li>
+     M.D. Jans,C. Soulaine, J.Q. Yang, I.C. Bourg  (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes, Submitted.
+    </li>
+    <li>
+     M.D. Jans, J.Q. Yang,C. Soulaine, I.C. Bourg  (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach, In-Prep.
+    </li>
+  <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
-      Jans, M. D. (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
+      M.D Jans (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
       Undergraduate Honors Thesis, University of Minnesota Duluth.
     </li>
     <li>
-      Jans, M. D. (2020). <em>Analysis and Digitization of Historical Water Quality in Western Lake Superior</em>.
+      M.D. Jans (2020). <em>Analysis and Digitization of Historical Water Quality in Western Lake Superior</em>.
       University of Minnesota Virtual Undergraduate Research Symposium.
     </li>
   </ul>
