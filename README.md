@@ -356,9 +356,31 @@
 <li>
   M.D. Jans, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
 </li>
-    </ul> 
-  <h2>Presentations</h2>
+</ul> 
+<h2>Presentations</h2>
   <ul class="ref-list">
+    <li>
+      M.D Jans, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
+      ,American Geophysical Union 2025 Annual Meeting.
+    </li>
+    <li>
+      M.D Jans, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
+      ,American Geophysical Union 2025 Annual Meeting.
+    </li>
+    <li>
+      M.D Jans, I.C. Bourg (2025). <em>Modeling cohesive fine-grained sediment erosion using a computational fluid dynamics framework</em>.
+      , International Clay Conference.
+    </li>
+    <li>
+      M.D Jans, I.C. Bourg (2024). <em>Modeling Incipient Erosion and Quantifying Erosion Rates with A Computational Fluid Dynamics Framework</em>.
+      ,American Physical Society March 2024 Meeting.
+    </li>
+    <li>
+      M.D Jans, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
+      ,American Geophysical Union 2024 Annual Meeting
+    <li>
+      M.D Jans, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
+      ,American Geophysical Union 2023 Annual Meeting
     <li>
       M.D Jans (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
       Undergraduate Honors Thesis, University of Minnesota Duluth.
