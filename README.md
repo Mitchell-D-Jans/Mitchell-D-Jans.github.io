@@ -360,7 +360,7 @@
 <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
-      N.W Johnson, D.H. Breneman, **M.D. Jans**, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
+      N.W Johnson, D.H. Breneman, <strong>M.D. Jans</strong>, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
