@@ -351,10 +351,10 @@
   <ul class="ref-list">
     <li>
 <li>
-  M.D. Jans, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes</em>, In-review.
+  <strong>M.D. Jans</strong>, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes</em>, In-review.
 </li>
 <li>
-  M.D. Jans, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
+  <strong>M.D. Jan</strong>, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
 </li>
 </ul> 
 <h2>Presentations</h2>
@@ -364,36 +364,36 @@
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
-      M.D Jans, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
+      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
       ,American Geophysical Union 2025 Annual Meeting.
     </li>
     <li>
-      M.D Jans, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
+      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
       ,American Geophysical Union 2025 Annual Meeting.
     </li>
     <li>
-      M.D Jans, I.C. Bourg (2025). <em>Modeling Cohesive Fine-Grained Sediment Erosion Using a Computational Fluid Dynamics Framework</em>.
+      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Fine-Grained Sediment Erosion Using a Computational Fluid Dynamics Framework</em>.
       , International Clay Conference.
     </li>
     <li>
-      M.D Jans, I.C. Bourg (2024). <em>Modeling Incipient Erosion and Quantifying Erosion Rates with A Computational Fluid Dynamics Framework</em>.
+      <strong>M.D Jans</strong>, I.C. Bourg (2024). <em>Modeling Incipient Erosion and Quantifying Erosion Rates with A Computational Fluid Dynamics Framework</em>.
       ,American Physical Society March 2024 Meeting.
     </li>
     <li>
-      M.D Jans, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
+      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
       ,American Geophysical Union 2024 Annual Meeting
     <li>
-      M.D Jans, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
+      <strong>M.D Jans</strong>, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
       ,American Geophysical Union 2023 Annual Meeting
     <li>
-      N.W. Johnson, M.D Jans, J Jeremiason, D.H Breneman (2022). <em>Activated Carbon Lowers Methylmercury Release From Sediment and Bioaccumulation in Ecologically Complex Mesocosms</em>.
+      N.W. Johnson, <strong>M.D Jans</strong>, J Jeremiason, D.H Breneman (2022). <em>Activated Carbon Lowers Methylmercury Release From Sediment and Bioaccumulation in Ecologically Complex Mesocosms</em>.
       ,American Chemical Society Fall 2022 Meeting
     <li>
-      M.D Jans (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
+      <strong>M.D Jans</strong> (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
       Undergraduate Honors Thesis, University of Minnesota Duluth.
     </li>
     <li>
-      M.D. Jans (2020). <em>Analysis and Digitization of Historical Water Quality in Western Lake Superior</em>.
+      <strong>M.D. Jans</strong> (2020). <em>Analysis and Digitization of Historical Water Quality in Western Lake Superior</em>.
       University of Minnesota Virtual Undergraduate Research Symposium.
     </li>
   </ul>
