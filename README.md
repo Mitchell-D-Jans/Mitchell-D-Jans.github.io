@@ -370,6 +370,14 @@
     <li>
       <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
       ,American Geophysical Union 2025 Annual Meeting.
+    <li>
+      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Sediment Erosion and Transport Using a Darcy-Brinkman-Biot Framework</em>.
+      , 8th Biot Conference on Poromechanics.
+    </li>
+    <li>
+       I.C. Bourg, F.J Carrillo,<strong> M.D Jans</strong> (2025). <em>Simulation of Biofilm Deformation Under Flow</em>.
+       , 8th Biot Conference on Poromechanics.
+    </li>
     </li>
     <li>
       <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Fine-Grained Sediment Erosion Using a Computational Fluid Dynamics Framework</em>.
