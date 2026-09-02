@@ -364,6 +364,10 @@
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
+      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
+      ,2026 Minnesota Water Resources Conference.
+    </li>
+    <li>
       <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
       ,American Geophysical Union 2025 Annual Meeting.
     </li>
