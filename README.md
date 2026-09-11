@@ -238,7 +238,7 @@
     <img src="/Self.jpg" alt="Mitchell D. Jans">
   </div>
   <h1>Mitchell D. Jans</h1>
-  <p class="subtitle">PhD Candidate · Interfacial Water Group · Princeton University</p>
+  <p class="subtitle"> Environmental engineer studying how cohesive fine-grained sediments move in aquatic systems. <br>PhD Candidate · Interfacial Water Group · Princeton University</p>
   <p class="bio">
     Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.<br>
     B.S. Civil Engineering, University of Minnesota Duluth (2022).<br>
@@ -246,6 +246,7 @@
   </p>
  
   <nav class="tab-nav" role="tablist">
+    <button class="tab-btn active" onclick="switchTab('about', this)" role="tab">About me</button>
     <button class="tab-btn active" onclick="switchTab('research', this)" role="tab">Research: Sediment Transport</button>
     <button class="tab-btn" onclick="switchTab('water', this)" role="tab">Research: Water Quality</button>
     <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Research: Engineering Applications</button>
@@ -443,4 +444,3 @@
  
 </body>
 </html>
- 
