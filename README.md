@@ -253,7 +253,6 @@
     <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications and Presentations</button>
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
-html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -334,10 +333,7 @@ html lang="en">
     .about-photos__headshot { aspect-ratio: 4 / 3; }
   }
  
-  /* ---------- Same pattern for the "fun" grid, same variable names
-     reused via a fresh scope so it's independent of .about-photos. ---------- */
- 
-  .fun-photos {
+  .fish-photos {
     --gap: 0.75rem;
     --radius: 10px;
     --shadow: 0 1px 3px rgba(0,0,0,.18);
@@ -349,7 +345,7 @@ html lang="en">
     margin-top: 1.25rem;
   }
  
-  .fun-photos figure {
+  .fish-photos figure {
     margin: 0;
     aspect-ratio: 1 / 1;
     overflow: hidden;
@@ -357,7 +353,7 @@ html lang="en">
     box-shadow: var(--shadow);
   }
  
-  .fun-photos img {
+  .fish-photos img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -381,10 +377,11 @@ html lang="en">
 <body>
   <section id="about" class="tab-panel active" role="tabpanel">
     <div class="about-block">
-      <h3>About me</h3>
       <p>
         Hello!
-        I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey
+        I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey.
+
+        I hold a BSCE in Civil Engineering from the University of Minnesota Duluth
       </p>
  
       <div class="about-photos">
@@ -399,10 +396,25 @@ html lang="en">
         </figure>
       </div>
     </div>
+    When I am not performing research, you'll often find me playing baseball, running, or fishing (see photos below)!
   </section>
+  <h1>Fun (example — same pattern, reuse when photos are ready)</h1>
+  <div class="fish-photos">
+    <figure>
+      <div class="fish-photos__frame"><img src="Jans_Bass.png" alt="" /></div>
+      <figcaption>Striped Bass from Jersey Shore, USA</figcaption>
+    </figure>
+    <figure>
+      <div class="fish-photos__frame"><img src="Jans_Walleye.png" alt="" /></div>
+      <figcaption>Walleye (Sander vitreus) from Lake of the Woods Canada</figcaption>
+    </figure>
+    <figure>
+      <div class="fish-photos__frame"><img src="Jans_Trout.png"</div>
+      <figcaption>Sea Trout (Salmo trutta trutta) from Baltic Sea, Denmark</figcaption>
+    </figure>
+  </div>
 </body>
 </html>
-    </div>
 </section>   
 <!-- ═══ RESEARCH ═══ -->
 <section id="research" class="tab-panel" role="tabpanel">
