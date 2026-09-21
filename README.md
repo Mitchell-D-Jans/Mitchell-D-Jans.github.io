@@ -254,7 +254,15 @@
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
 </header>
- 
+ <section id="about" class="tab-panel active" role="tabpanel">
+     <div class="about-block">
+      <h3>About me</h3>
+    <p>
+      Hello!
+      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey
+    </p> 
+    </div>
+</section>   
 <!-- ═══ RESEARCH ═══ -->
 <section id="research" class="tab-panel active" role="tabpanel">
   <h2>Mineralogical Insights in Soft Geophysical Flows &amp; Sediment Transport</h2>
