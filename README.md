@@ -239,10 +239,6 @@
   </div>
   <h1>Mitchell D. Jans</h1>
   <p class="subtitle"> Environmental engineer studying how cohesive fine-grained sediments move in aquatic systems. <br>PhD Candidate · Interfacial Water Group · Princeton University</p>
-  <p class="bio">
-    Advised by Professor Ian Bourg in the Civil and Environmental Engineering Department.<br>
-    B.S. Civil Engineering, University of Minnesota Duluth (2022).<br>
-    M.A. Civil &amp; Environmental Engineering, Princeton University (2024).
   </p>
  
   <nav class="tab-nav" role="tablist">
@@ -391,7 +387,7 @@
       Hello!
       I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey.
 
-      I hold a BSCE in Civil Engineering from the University of Minnesota Duluth
+      I hold a Bachelor's of Science in Civil Engineering from the University of Minnesota Duluth and a Masters of Arts in Civil and Environmental Engineering from Princeton University.
     </p>
 
     <div class="about-photos">
