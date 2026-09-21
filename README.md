@@ -253,14 +253,155 @@
     <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications and Presentations</button>
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
-</header>
- <section id="about" class="tab-panel active" role="tabpanel">
-     <div class="about-block">
+html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>About — Integrated Collage Demo</title>
+<style>
+  body {
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    max-width: 760px;
+    margin: 3rem auto;
+    padding: 0 1.25rem;
+    line-height: 1.5;
+    color: #1c1c1c;
+  }
+ 
+  /* ---------- Scoped to .about-photos so it can't collide with your
+     site's existing variables/classes. Adjust --radius / --shadow /
+     --gap to match your site's existing look if it already has a
+     design system (border-radius, shadow depth, spacing scale). ---------- */
+ 
+  .about-photos {
+    --gap: 0.75rem;
+    --radius: 10px;
+    --shadow: 0 1px 3px rgba(0,0,0,.18);
+    --muted: #6b6b6b;
+ 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: var(--gap);
+    margin-top: 1.25rem;
+  }
+ 
+  .about-photos figure {
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    background: #eee;
+  }
+ 
+  .about-photos img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+ 
+  .about-photos__headshot {
+    grid-row: 1 / 3;
+    grid-column: 1;
+    aspect-ratio: 3 / 4;
+  }
+ 
+  .about-photos__talk {
+    grid-row: 1;
+    grid-column: 2;
+    aspect-ratio: 3 / 2;
+  }
+ 
+  .about-photos__conference {
+    grid-row: 2;
+    grid-column: 2;
+    aspect-ratio: 3 / 2;
+  }
+ 
+  @media (max-width: 560px) {
+    .about-photos {
+      grid-template-columns: 1fr;
+      grid-template-rows: none;
+    }
+    .about-photos__headshot,
+    .about-photos__talk,
+    .about-photos__conference {
+      grid-column: 1;
+      grid-row: auto;
+    }
+    .about-photos__headshot { aspect-ratio: 4 / 3; }
+  }
+ 
+  /* ---------- Same pattern for the "fun" grid, same variable names
+     reused via a fresh scope so it's independent of .about-photos. ---------- */
+ 
+  .fun-photos {
+    --gap: 0.75rem;
+    --radius: 10px;
+    --shadow: 0 1px 3px rgba(0,0,0,.18);
+    --muted: #6b6b6b;
+ 
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: var(--gap);
+    margin-top: 1.25rem;
+  }
+ 
+  .fun-photos figure {
+    margin: 0;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+ 
+  .fun-photos img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+ 
+  .placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eee;
+    color: #6b6b6b;
+    font-size: 0.75rem;
+  }
+ 
+  h1 { font-size: 1.1rem; margin-top: 3rem; }
+</style>
+</head>
+<body>
+  <section id="about" class="tab-panel active" role="tabpanel">
+    <div class="about-block">
       <h3>About me</h3>
-    <p>
-      Hello!
-      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey
-    </p> 
+      <p>
+        Hello!
+        I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey
+      </p>
+ 
+      <div class="about-photos">
+        <figure class="about-photos__headshot">
+          <img src="Jans4.jpg" alt="Mitchell Jans" />
+        </figure>
+        <figure class="about-photos__talk">
+          <img src="Jans_HackPresentation.png" alt="Presenting at Hack Water Research Day, Princeton High Meadows Environmental Institute" />
+        </figure>
+        <figure class="about-photos__conference">
+          <img src="Jans_BIOT.png" alt="At the 8th Biot Conference on Poromechanics" />
+        </figure>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
     </div>
 </section>   
 <!-- ═══ RESEARCH ═══ -->
