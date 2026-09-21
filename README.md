@@ -327,6 +327,10 @@
   <div class="research-block">
     <h3>Monitoring Surface Water Quality and Temperature</h3>
     <p>Ongoing work monitoring surface water quality and temperature dynamics in temperate lake and river systems.</p>
+      <figure>
+      <img class="fig" src="/LakeTemp.png">
+      <figcaption>Ongoing surface water temperature monitoring in central Minnesota lake.</figcaption>
+    </figure>
   </div>
 </section>
  
