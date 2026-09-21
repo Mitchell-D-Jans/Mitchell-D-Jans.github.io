@@ -333,26 +333,33 @@
     .about-photos__headshot { aspect-ratio: 4 / 3; }
   }
  
- .fish-photos figure {
+.fish-photos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.fish-photos figure {
   margin: 0;
-  overflow: visible !important;
-  height: auto !important;
-  max-height: none !important;
 }
 
 .fish-photos__frame {
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 5;
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0 1px 3px rgba(0,0,0,.18);
   background: #eee;
 }
 
-.fish-photos img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.fish-photos img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 
 .fish-photos figcaption {
-  display: block;
-  overflow: visible;
   margin-top: 0.4rem;
   font-size: 0.8rem;
   color: #6b6b6b;
