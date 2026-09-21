@@ -385,10 +385,9 @@
   <div class="about-block">
     <p>
       Hello!
-      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey.
+      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. </br>
 
       I hold a Bachelor's of Science in Civil Engineering from the University of Minnesota Duluth and a Masters of Arts in Civil and Environmental Engineering from Princeton University.
-    </p>
 
     <div class="about-photos">
       <figure class="about-photos__headshot">
