@@ -398,7 +398,6 @@
     </div>
     When I am not performing research, you'll often find me playing baseball, running, or fishing (see photos below)!
   </section>
-  <h1>Fun (example — same pattern, reuse when photos are ready)</h1>
   <div class="fish-photos">
     <figure>
       <div class="fish-photos__frame"><img src="Jans_Bass.png" alt="" /></div>
