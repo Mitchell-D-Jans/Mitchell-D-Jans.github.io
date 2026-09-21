@@ -345,11 +345,15 @@
 }
 
 .fish-photos__frame {
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 4 / 5; /* default, for portrait-orientation photos */
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0 1px 3px rgba(0,0,0,.18);
   background: #eee;
+}
+
+.fish-photos__frame--landscape {
+  aspect-ratio: 4 / 3; /* wider box for horizontally-composed photos */
 }
 
 .fish-photos img {
@@ -406,7 +410,7 @@
 
     <div class="fish-photos">
       <figure>
-        <div class="fish-photos__frame"><img src="Jans_Bass.jpg" alt="" /></div>
+        <div class="fish-photos__frame--landscape"><img src="Jans_Bass.jpg" alt="" /></div>
         <figcaption>Striped Bass (Morone saxatilis) from Jersey Shore, USA</figcaption>
       </figure>
       <figure>
