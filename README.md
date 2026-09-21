@@ -16,9 +16,9 @@
       --rule: #d5cfc5;
       --tab-h: 48px;
     }
- 
+
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
- 
+
     body {
       font-family: 'EB Garamond', Georgia, serif;
       background: var(--bg);
@@ -27,7 +27,7 @@
       font-size: 17px;
       line-height: 1.7;
     }
- 
+
     /* ── Header ── */
     header {
       background: var(--surface);
@@ -35,7 +35,7 @@
       padding: 3rem 2rem 0;
       text-align: center;
     }
- 
+
     .avatar-wrap {
       width: 130px;
       height: 130px;
@@ -45,31 +45,31 @@
       border: 3px solid var(--accent);
       box-shadow: 0 4px 20px rgba(42,92,138,.15);
     }
- 
+
     .avatar-wrap img {
       width: 100%; height: 100%; object-fit: cover;
     }
- 
+
     h1 {
       font-size: 2rem;
       font-weight: 600;
       letter-spacing: .01em;
     }
- 
+
     .subtitle {
       font-style: italic;
       color: var(--muted);
       margin-top: .25rem;
       font-size: 1rem;
     }
- 
+
     .bio {
       max-width: 620px;
       margin: 1rem auto 0;
       color: var(--muted);
       font-size: .95rem;
     }
- 
+
     /* ── Tab nav ── */
     .tab-nav {
       display: flex;
@@ -79,7 +79,7 @@
       border-top: 1px solid var(--rule);
       overflow-x: auto;
     }
- 
+
     .tab-btn {
       font-family: 'DM Mono', monospace;
       font-size: .78rem;
@@ -95,7 +95,7 @@
       transition: color .2s;
       white-space: nowrap;
     }
- 
+
     .tab-btn::after {
       content: '';
       position: absolute;
@@ -105,11 +105,11 @@
       transform: scaleX(0);
       transition: transform .2s;
     }
- 
+
     .tab-btn:hover { color: var(--ink); }
     .tab-btn.active { color: var(--accent); }
     .tab-btn.active::after { transform: scaleX(1); }
- 
+
     /* ── Tab content ── */
     .tab-panel {
       display: none;
@@ -118,14 +118,14 @@
       padding: 3rem 1.5rem 5rem;
       animation: fadeUp .3s ease;
     }
- 
+
     .tab-panel.active { display: block; }
- 
+
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(8px); }
       to   { opacity: 1; transform: translateY(0); }
     }
- 
+
     /* ── Section headings ── */
     h2 {
       font-size: 1.5rem;
@@ -133,7 +133,7 @@
       margin-bottom: .4rem;
       color: var(--ink);
     }
- 
+
     h3 {
       font-size: 1.1rem;
       font-weight: 600;
@@ -141,15 +141,15 @@
       color: var(--accent);
       font-style: italic;
     }
- 
+
     .section-rule {
       border: none;
       border-top: 1px solid var(--rule);
       margin: 2.5rem 0;
     }
- 
+
     p { margin-bottom: 1rem; }
- 
+
     /* ── Research blocks ── */
     .research-block {
       background: var(--surface);
@@ -158,9 +158,9 @@
       padding: 1.75rem;
       margin-bottom: 2rem;
     }
- 
+
     .research-block h3 { margin-top: 0; }
- 
+
     video, img.fig {
       display: block;
       width: 100%;
@@ -169,7 +169,7 @@
       border-radius: 6px;
       border: 1px solid var(--rule);
     }
- 
+
     figcaption {
       text-align: center;
       font-style: italic;
@@ -178,21 +178,21 @@
       margin-top: .4rem;
       margin-bottom: 1rem;
     }
- 
+
     /* ── References ── */
     .ref-list {
       list-style: none;
       padding: 0;
     }
- 
+
     .ref-list li {
       padding: .75rem 0;
       border-bottom: 1px solid var(--rule);
       font-size: .95rem;
     }
- 
+
     .ref-list li:last-child { border-bottom: none; }
- 
+
     /* ── Links panel ── */
     .link-grid {
       display: grid;
@@ -200,7 +200,7 @@
       gap: 1rem;
       margin-top: 1.5rem;
     }
- 
+
     .link-card {
       display: flex;
       align-items: center;
@@ -213,181 +213,151 @@
       color: var(--ink);
       transition: border-color .2s, box-shadow .2s;
     }
- 
+
     .link-card:hover {
       border-color: var(--accent);
       box-shadow: 0 4px 16px rgba(42,92,138,.1);
     }
- 
+
     .link-card .icon {
       font-size: 1.4rem;
       flex-shrink: 0;
     }
- 
+
     .link-card .label { font-size: .92rem; color: var(--muted); }
     .link-card .name  { font-weight: 600; }
- 
+
+    /* ── About photos ── */
+    .about-photos {
+      --gap: 0.75rem;
+      --radius: 10px;
+      --shadow: 0 1px 3px rgba(0,0,0,.18);
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: var(--gap);
+      margin-top: 1.25rem;
+    }
+
+    .about-photos figure {
+      margin: 0;
+      position: relative;
+      overflow: hidden;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      background: #eee;
+    }
+
+    .about-photos img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .about-photos__headshot {
+      grid-row: 1 / 3;
+      grid-column: 1;
+      aspect-ratio: 3 / 4;
+    }
+
+    .about-photos__talk {
+      grid-row: 1;
+      grid-column: 2;
+      aspect-ratio: 3 / 2;
+    }
+
+    .about-photos__conference {
+      grid-row: 2;
+      grid-column: 2;
+      aspect-ratio: 3 / 2;
+    }
+
+    @media (max-width: 560px) {
+      .about-photos {
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+      }
+      .about-photos__headshot,
+      .about-photos__talk,
+      .about-photos__conference {
+        grid-column: 1;
+        grid-row: auto;
+      }
+      .about-photos__headshot { aspect-ratio: 4 / 3; }
+    }
+
+    /* ── Fish photos ── */
+    .fish-photos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+    }
+
+    .fish-photos figure {
+      margin: 0;
+    }
+
+    .fish-photos__frame {
+      aspect-ratio: 4 / 5; /* default, for portrait-orientation photos */
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.18);
+      background: #eee;
+    }
+
+    .fish-photos__frame--landscape {
+      aspect-ratio: 4 / 3; /* wider box for horizontally-composed photos */
+    }
+
+    .fish-photos img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .fish-photos figcaption {
+      margin-top: 0.4rem;
+      font-size: 0.8rem;
+      color: #6b6b6b;
+      text-align: center;
+    }
+
     a { color: var(--accent); }
     a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
- 
+
 <header>
   <div class="avatar-wrap">
     <img src="/Self.jpg" alt="Mitchell D. Jans">
   </div>
   <h1>Mitchell D. Jans</h1>
   <p class="subtitle"> Environmental engineer studying how cohesive fine-grained sediments move in aquatic systems. <br>PhD Candidate · Interfacial Water Group · Princeton University</p>
-  </p>
- 
+
   <nav class="tab-nav" role="tablist">
     <button class="tab-btn active" onclick="switchTab('about', this)" role="tab">About me</button>
-    <button class="tab-btn active" onclick="switchTab('research', this)" role="tab">Research: Sediment Transport</button>
+    <button class="tab-btn" onclick="switchTab('research', this)" role="tab">Research: Sediment Transport</button>
     <button class="tab-btn" onclick="switchTab('water', this)" role="tab">Research: Water Quality</button>
     <button class="tab-btn" onclick="switchTab('engineering', this)" role="tab">Research: Engineering Applications</button>
     <button class="tab-btn" onclick="switchTab('publications', this)" role="tab">Publications and Presentations</button>
     <button class="tab-btn" onclick="switchTab('connect', this)" role="tab">Connect</button>
   </nav>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>About — Integrated Collage Demo</title>
-<style>
-  body {
-    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-    max-width: 760px;
-    margin: 3rem auto;
-    padding: 0 1.25rem;
-    line-height: 1.5;
-    color: #1c1c1c;
-  }
- 
-  /* ---------- Scoped to .about-photos so it can't collide with your
-     site's existing variables/classes. Adjust --radius / --shadow /
-     --gap to match your site's existing look if it already has a
-     design system (border-radius, shadow depth, spacing scale). ---------- */
- 
-  .about-photos {
-    --gap: 0.75rem;
-    --radius: 10px;
-    --shadow: 0 1px 3px rgba(0,0,0,.18);
-    --muted: #6b6b6b;
- 
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: var(--gap);
-    margin-top: 1.25rem;
-  }
- 
-  .about-photos figure {
-    margin: 0;
-    position: relative;
-    overflow: hidden;
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    background: #eee;
-  }
- 
-  .about-photos img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
- 
-  .about-photos__headshot {
-    grid-row: 1 / 3;
-    grid-column: 1;
-    aspect-ratio: 3 / 4;
-  }
- 
-  .about-photos__talk {
-    grid-row: 1;
-    grid-column: 2;
-    aspect-ratio: 3 / 2;
-  }
- 
-  .about-photos__conference {
-    grid-row: 2;
-    grid-column: 2;
-    aspect-ratio: 3 / 2;
-  }
- 
-  @media (max-width: 560px) {
-    .about-photos {
-      grid-template-columns: 1fr;
-      grid-template-rows: none;
-    }
-    .about-photos__headshot,
-    .about-photos__talk,
-    .about-photos__conference {
-      grid-column: 1;
-      grid-row: auto;
-    }
-    .about-photos__headshot { aspect-ratio: 4 / 3; }
-  }
- 
-.fish-photos {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 0.75rem;
-  margin-top: 1.25rem;
-}
+</header>
 
-.fish-photos figure {
-  margin: 0;
-}
-
-.fish-photos__frame {
-  aspect-ratio: 4 / 5; /* default, for portrait-orientation photos */
-  overflow: hidden;
-  border-radius: 10px;
-  box-shadow: 0 1px 3px rgba(0,0,0,.18);
-  background: #eee;
-}
-
-.fish-photos__frame--landscape {
-  aspect-ratio: 4 / 3; /* wider box for horizontally-composed photos */
-}
-
-.fish-photos img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.fish-photos figcaption {
-  margin-top: 0.4rem;
-  font-size: 0.8rem;
-  color: #6b6b6b;
-  text-align: center;
-}
- 
-  .placeholder {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #eee;
-    color: #6b6b6b;
-    font-size: 0.75rem;
-  }
- 
-  h1 { font-size: 1.1rem; margin-top: 3rem; }
-</style>
-</head>
-<body>
+<!-- ═══ ABOUT ═══ -->
 <section id="about" class="tab-panel active" role="tabpanel">
   <div class="about-block">
     <p>
       Hello!
-      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. </br>
+      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. <br /><br />
 
       I hold a Bachelor's of Science in Civil Engineering from the University of Minnesota Duluth and a Masters of Arts in Civil and Environmental Engineering from Princeton University.
+    </p>
 
     <div class="about-photos">
       <figure class="about-photos__headshot">
@@ -405,7 +375,7 @@
 
     <div class="fish-photos">
       <figure>
-        <div class="fish-photos__frame--landscape"><img src="Jans_Bass.jpg" alt="" /></div>
+        <div class="fish-photos__frame fish-photos__frame--landscape"><img src="Jans_Bass.jpg" alt="" /></div>
         <figcaption>Striped Bass (Morone saxatilis) from Jersey Shore, USA</figcaption>
       </figure>
       <figure>
@@ -418,11 +388,12 @@
       </figure>
     </div>
   </div>
-</section>  
+</section>
+
 <!-- ═══ RESEARCH ═══ -->
 <section id="research" class="tab-panel" role="tabpanel">
   <h2>Mineralogical Insights in Soft Geophysical Flows &amp; Sediment Transport</h2>
- 
+
   <div class="research-block">
     <h3>Impact of Clay Minerals on Sediment Gravity Flows</h3>
     <p>
@@ -441,7 +412,7 @@
       <source src="SGFExample.mp4" type="video/mp4">
     </video>
   </div>
- 
+
   <div class="research-block">
     <h3>Impact of Clay Content on Sediment Bed Erodibility</h3>
     <p>
@@ -467,11 +438,11 @@
     </video>
   </div>
 </section>
- 
+
 <!-- ═══ WATER QUALITY ═══ -->
 <section id="water" class="tab-panel" role="tabpanel">
   <h2>Water Quality Impacts in Temperate Lakes and Rivers</h2>
- 
+
   <div class="research-block">
     <h3>Historic Water Quality</h3>
     <figure>
@@ -479,7 +450,7 @@
       <figcaption>Adapted from Jans (2020).</figcaption>
     </figure>
   </div>
- 
+
   <div class="research-block">
     <h3>Monitoring Surface Water Quality and Temperature</h3>
     <p>Ongoing work monitoring surface water quality and temperature dynamics in temperate lake and river systems.</p>
@@ -489,11 +460,11 @@
     </figure>
   </div>
 </section>
- 
+
 <!-- ═══ ENGINEERING ═══ -->
 <section id="engineering" class="tab-panel" role="tabpanel">
   <h2>Improving Engineering Insights to Reduce Anthropogenic Impact</h2>
- 
+
   <div class="research-block">
     <h3>Biochar Application to Reduce Methyl Mercury Bioaccumulation</h3>
     <p>
@@ -505,7 +476,7 @@
       <figcaption>Adapted from Jans (2022).</figcaption>
     </figure>
   </div>
- 
+
   <div class="research-block">
     <h3>Biopolymer Application to Reduce Sediment Erodibility</h3>
     <figure>
@@ -513,20 +484,19 @@
     </figure>
   </div>
 </section>
- 
+
 <!-- ═══ PUBLICATIONS ═══ -->
 <section id="publications" class="tab-panel" role="tabpanel">
   <h2>Publications</h2>
   <ul class="ref-list">
     <li>
-<li>
-  <strong>M.D. Jans</strong>, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes</em>, In-revision.
-</li>
-<li>
-  <strong>M.D. Jans</strong>, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
-</li>
-</ul> 
-<h2>Presentations</h2>
+      <strong>M.D. Jans</strong>, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes</em>, In-revision.
+    </li>
+    <li>
+      <strong>M.D. Jans</strong>, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Modeling Cohesive Fine-Grained Sediment Erosion using a Computational Fluid Dynamics Approach</em>, In-Prep.
+    </li>
+  </ul>
+  <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
       N.W Johnson, D.H. Breneman, <strong>M.D. Jans</strong>, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
@@ -543,6 +513,7 @@
     <li>
       <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
       ,American Geophysical Union 2025 Annual Meeting.
+    </li>
     <li>
       <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Sediment Erosion and Transport Using a Darcy-Brinkman-Biot Framework</em>.
       , 8th Biot Conference on Poromechanics.
@@ -562,12 +533,15 @@
     <li>
       <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
       ,American Geophysical Union 2024 Annual Meeting
+    </li>
     <li>
       <strong>M.D Jans</strong>, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
       ,American Geophysical Union 2023 Annual Meeting
+    </li>
     <li>
       N.W. Johnson, <strong>M.D Jans</strong>, J Jeremiason, D.H Breneman (2022). <em>Activated Carbon Lowers Methylmercury Release From Sediment and Bioaccumulation in Ecologically Complex Mesocosms</em>.
       ,American Chemical Society Fall 2022 Meeting
+    </li>
     <li>
       <strong>M.D Jans</strong> (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
       Undergraduate Honors Thesis, University of Minnesota Duluth.
@@ -578,7 +552,7 @@
     </li>
   </ul>
 </section>
- 
+
 <!-- ═══ CONNECT ═══ -->
 <section id="connect" class="tab-panel" role="tabpanel">
   <h2>Connect</h2>
@@ -600,7 +574,7 @@
     </a>
   </div>
 </section>
- 
+
 <script>
   function switchTab(id, btn) {
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
@@ -609,6 +583,6 @@
     btn.classList.add('active');
   }
 </script>
- 
+
 </body>
 </html>
