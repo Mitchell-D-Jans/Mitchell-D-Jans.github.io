@@ -503,47 +503,47 @@
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
-      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
+      <strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
       ,2026 Minnesota Water Resources Conference.
     </li>
     <li>
-      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
+      <strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2025). <em>Rheological Characterization and Sediment Transport Simulations of Biopolymer-Cohesive Sediment Mixtures</em>.
       ,American Geophysical Union 2025 Annual Meeting.
     </li>
     <li>
-      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
+      <strong>M.D. Jans</strong>, I.C. Bourg (2025). <em>Examining Cohesive Sediment Gravity Flows using a Computational Fluid Dynamics Framework</em>.
       ,American Geophysical Union 2025 Annual Meeting.
     </li>
     <li>
-      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Sediment Erosion and Transport Using a Darcy-Brinkman-Biot Framework</em>.
+      <strong>M.D. Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Sediment Erosion and Transport Using a Darcy-Brinkman-Biot Framework</em>.
       , 8th Biot Conference on Poromechanics.
     </li>
     <li>
-       I.C. Bourg, F.J Carrillo,<strong> M.D Jans</strong> (2025). <em>Simulation of Biofilm Deformation Under Flow</em>.
+       I.C. Bourg, F.J Carrillo,<strong> M.D. Jans</strong> (2025). <em>Simulation of Biofilm Deformation Under Flow</em>.
        , 8th Biot Conference on Poromechanics.
     </li>
     <li>
-      <strong>M.D Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Fine-Grained Sediment Erosion Using a Computational Fluid Dynamics Framework</em>.
+      <strong>M.D. Jans</strong>, I.C. Bourg (2025). <em>Modeling Cohesive Fine-Grained Sediment Erosion Using a Computational Fluid Dynamics Framework</em>.
       , International Clay Conference.
     </li>
     <li>
-      <strong>M.D Jans</strong>, I.C. Bourg (2024). <em>Modeling Incipient Erosion and Quantifying Erosion Rates with A Computational Fluid Dynamics Framework</em>.
+      <strong>M.D. Jans</strong>, I.C. Bourg (2024). <em>Modeling Incipient Erosion and Quantifying Erosion Rates with A Computational Fluid Dynamics Framework</em>.
       ,American Physical Society March 2024 Meeting.
     </li>
     <li>
-      <strong>M.D Jans</strong>, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
+      <strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2024). <em>Mechanistic Understanding of Fine-Grained Cohesive Sediment Erosion: Integrating Simulations and Experiments</em>.
       ,American Geophysical Union 2024 Annual Meeting
     </li>
     <li>
-      <strong>M.D Jans</strong>, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
+      <strong>M.D. Jans</strong>, I.C. Bourg (2023). <em>A Computational Fluid Dynamics Approach for Modeling Clay Erosion, Transport, and Deposition</em>.
       ,American Geophysical Union 2023 Annual Meeting
     </li>
     <li>
-      N.W. Johnson, <strong>M.D Jans</strong>, J Jeremiason, D.H Breneman (2022). <em>Activated Carbon Lowers Methylmercury Release From Sediment and Bioaccumulation in Ecologically Complex Mesocosms</em>.
+      N.W. Johnson, <strong>M.D. Jans</strong>, J Jeremiason, D.H Breneman (2022). <em>Activated Carbon Lowers Methylmercury Release From Sediment and Bioaccumulation in Ecologically Complex Mesocosms</em>.
       ,American Chemical Society Fall 2022 Meeting
     </li>
     <li>
-      <strong>M.D Jans</strong> (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
+      <strong>M.D. Jans</strong> (2022). <em>Exploring Activated Carbon's Impact on Mercury Geochemistry and Eutrophication</em>.
       Undergraduate Honors Thesis, University of Minnesota Duluth.
     </li>
     <li>
