@@ -400,7 +400,7 @@
   </section>
   <div class="fish-photos">
     <figure>
-      <div class="fish-photos__frame"><img src="Jans_Bass.png" alt="" /></div>
+      <div class="fish-photos__frame"><img src="Jans_Bass.jpg" alt="" /></div>
       <figcaption>Striped Bass from Jersey Shore, USA</figcaption>
     </figure>
     <figure>
