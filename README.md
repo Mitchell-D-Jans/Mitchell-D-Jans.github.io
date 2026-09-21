@@ -401,7 +401,7 @@
   <div class="fish-photos">
     <figure>
       <div class="fish-photos__frame"><img src="Jans_Bass.jpg" alt="" /></div>
-      <figcaption>Striped Bass from Jersey Shore, USA</figcaption>
+      <figcaption>Striped Bass (Morone saxatilis) from Jersey Shore, USA</figcaption>
     </figure>
     <figure>
       <div class="fish-photos__frame"><img src="Jans_Walleye.png" alt="" /></div>
