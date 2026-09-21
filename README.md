@@ -375,46 +375,45 @@
 </style>
 </head>
 <body>
-  <section id="about" class="tab-panel active" role="tabpanel">
-    <div class="about-block">
-      <p>
-        Hello!
-        I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey.
+<section id="about" class="tab-panel active" role="tabpanel">
+  <div class="about-block">
+    <p>
+      Hello!
+      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey.
 
-        I hold a BSCE in Civil Engineering from the University of Minnesota Duluth
-      </p>
- 
-      <div class="about-photos">
-        <figure class="about-photos__headshot">
-          <img src="Jans4.jpg" alt="Mitchell Jans" />
-        </figure>
-        <figure class="about-photos__talk">
-          <img src="Jans_HackPresentation.png" alt="Presenting at Hack Water Research Day, Princeton High Meadows Environmental Institute" />
-        </figure>
-        <figure class="about-photos__conference">
-          <img src="Jans_BIOT.png" alt="At the 8th Biot Conference on Poromechanics" />
-        </figure>
-      </div>
+      I hold a BSCE in Civil Engineering from the University of Minnesota Duluth
+    </p>
+
+    <div class="about-photos">
+      <figure class="about-photos__headshot">
+        <img src="Jans4.jpg" alt="Mitchell Jans" />
+      </figure>
+      <figure class="about-photos__talk">
+        <img src="Jans_HackPresentation.png" alt="Presenting at Hack Water Research Day, Princeton High Meadows Environmental Institute" />
+      </figure>
+      <figure class="about-photos__conference">
+        <img src="Jans_BIOT.png" alt="At the 8th Biot Conference on Poromechanics" />
+      </figure>
     </div>
-    When I am not performing research, you'll often find me playing baseball, running, or fishing (see photos below)!
-  </section>
-  <div class="fish-photos">
-    <figure>
-      <div class="fish-photos__frame"><img src="Jans_Bass.jpg" alt="" /></div>
-      <figcaption>Striped Bass (Morone saxatilis) from Jersey Shore, USA</figcaption>
-    </figure>
-    <figure>
-      <div class="fish-photos__frame"><img src="Jans_Walleye.png" alt="" /></div>
-      <figcaption>Walleye (Sander vitreus) from Lake of the Woods Canada</figcaption>
-    </figure>
-    <figure>
-      <div class="fish-photos__frame"><img src="Jans_Trout.png"</div>
-      <figcaption>Sea Trout (Salmo trutta trutta) from Baltic Sea, Denmark</figcaption>
-    </figure>
+
+    <p>When I am not performing research, you'll often find me playing baseball, running, or fishing (see photos below)!</p>
+
+    <div class="fish-photos">
+      <figure>
+        <div class="fish-photos__frame"><img src="Jans_Bass.jpg" alt="" /></div>
+        <figcaption>Striped Bass (Morone saxatilis) from Jersey Shore, USA</figcaption>
+      </figure>
+      <figure>
+        <div class="fish-photos__frame"><img src="Jans_Walleye.png" alt="" /></div>
+        <figcaption>Walleye (Sander vitreus) from Lake of the Woods, Canada</figcaption>
+      </figure>
+      <figure>
+        <div class="fish-photos__frame"><img src="Jans_Trout.png" alt="" /></div>
+        <figcaption>Sea Trout (Salmo trutta trutta) from Baltic Sea, Denmark</figcaption>
+      </figure>
+    </div>
   </div>
-</body>
-</html>
-</section>   
+</section>  
 <!-- ═══ RESEARCH ═══ -->
 <section id="research" class="tab-panel" role="tabpanel">
   <h2>Mineralogical Insights in Soft Geophysical Flows &amp; Sediment Transport</h2>
