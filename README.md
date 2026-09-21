@@ -264,7 +264,7 @@
     </div>
 </section>   
 <!-- ═══ RESEARCH ═══ -->
-<section id="research" class="tab-panel active" role="tabpanel">
+<section id="research" class="tab-panel" role="tabpanel">
   <h2>Mineralogical Insights in Soft Geophysical Flows &amp; Sediment Transport</h2>
  
   <div class="research-block">
