@@ -371,7 +371,7 @@
       </figure>
     </div>
 
-    <p>When I am not performing research, you'll often find me playing baseball, running, or fishing (see photos below)!</p>
+    <p>When I am not conducting research, you'll often find me playing baseball, running, or fishing (see photos below)!</p>
 
     <div class="fish-photos">
       <figure>
