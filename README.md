@@ -558,19 +558,21 @@
   <h2>Connect</h2>
   <p>Feel free to reach out through any of the following platforms.</p>
 <div class="link-grid">
-  <a class="link-card" href="mailto:mitchelljans@princeton.edu">
-    <span class="icon">✉️</span>
-    <div>
-      <div class="name">Email</div>
-      <div class="label">mitchelljans@princeton.edu</div>
-    </div>
-  </a>
-  <a class="link-card" href="https://www.linkedin.com/in/mitchelljans/" target="_blank">
-    ...
-  </a>
-  <a class="link-card" href="https://scholar.google.com/citations?user=iKfFNVEAAAAJ&hl=en&oi=ao" target="_blank">
-    ...
-  </a>
+    <a class="link-card" href="https://www.linkedin.com/in/mitchelljans/" target="_blank">
+      <span class="icon">💼</span>
+      <div>
+        <div class="name">LinkedIn</div>
+        <div class="label">mitchelljans</div>
+      </div>
+    </a>
+    <a class="link-card" href="https://scholar.google.com/citations?user=iKfFNVEAAAAJ&hl=en&oi=ao" target="_blank">
+      <span class="icon">🎓</span>
+      <div>
+        <div class="name">Google Scholar</div>
+        <div class="label">View publications</div>
+      </div>
+    </a>
+
 </div>
 </section>
 
