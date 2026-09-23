@@ -328,6 +328,15 @@
 
     a { color: var(--accent); }
     a:hover { text-decoration: underline; }
+    .resume-embed__frame {
+  width: 100%;
+  max-width: 1100px;      /* was 850px — increase, or use 100% */
+  margin: 0 auto;
+  aspect-ratio: 8.5 / 11;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+}
   </style>
 </head>
 <body>
