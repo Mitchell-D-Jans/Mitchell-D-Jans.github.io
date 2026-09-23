@@ -370,6 +370,24 @@
         <img src="Jans_BIOT.png" alt="At the 8th Biot Conference on Poromechanics" />
       </figure>
     </div>
+    </div> <!-- end .about-photos -->
+
+    <!-- ═══ RESUME ═══ -->
+    <div class="resume-embed">
+      <h3 class="resume-embed__title">Resume</h3>
+      <div class="resume-embed__frame">
+        <iframe
+          src="[https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/1gWksUMAUa4UcJYkHhEhBYnDji_KH-qQT/view?usp=sharing)"
+          title="Mitchell Jans resume"
+          loading="lazy"
+          allow="autoplay"></iframe>
+      </div>
+      <p class="resume-embed__link">
+        <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank" rel="noopener">
+          Open or download PDF ↗
+        </a>
+      </p>
+    </div>
 
     <p>When I am not conducting research, you'll often find me playing baseball, running, or fishing (see photos below)!</p>
 
