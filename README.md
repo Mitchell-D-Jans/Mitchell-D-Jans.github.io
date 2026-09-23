@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Mitchell D. Jans</title>
+  <title>Mitchell D. Jans, E.I.T</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
   <style>
@@ -356,7 +356,7 @@
       Hello!
       I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. <br /><br />
 
-      I hold a Bachelor's of Science in Civil Engineering from the University of Minnesota Duluth and a Masters of Arts in Civil and Environmental Engineering from Princeton University.
+      I hold a Bachelor of Science in Civil Engineering from the University of Minnesota Duluth and a Master of Arts in Civil and Environmental Engineering from Princeton University.
     </p>
 
     <div class="about-photos">
