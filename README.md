@@ -369,9 +369,11 @@
   <div class="about-block">
     <p>
       Hello!
-      I am a PhD student studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. <br /><br />
+      I am a PhD candidate studying fine-grained cohesive sediments at Princeton University in Princeton, New Jersey. <br /><br />
 
-      I hold a Bachelor of Science in Civil Engineering from the University of Minnesota Duluth and a Master of Arts in Civil and Environmental Engineering from Princeton University.
+      I am actively seeking water resources and environmental engineering opportunities starting Summer 2027.
+
+      I hold a Bachelor of Science in Civil Engineering from the University of Minnesota Duluth and a Master of Arts in Civil and Environmental Engineering from Princeton University with my PhD expected to be completed in May 2027.
     </p>
 
     <div class="about-photos">
