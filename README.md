@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Mitchell D. Jans, E.I.T</title>
+  <title>Mitchell D. Jans, E.I.T.</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
   <style>
@@ -351,7 +351,7 @@
   <div class="avatar-wrap">
     <img src="/Self.jpg" alt="Mitchell D. Jans">
   </div>
-  <h1>Mitchell D. Jans, E.I.T</h1>
+  <h1>Mitchell D. Jans, E.I.T.</h1>
   <p class="subtitle"> Environmental engineer studying how cohesive fine-grained sediments move in aquatic systems. <br>PhD Candidate · Interfacial Water Group · Princeton University · Expected May 2027</p>
 
   <nav class="tab-nav" role="tablist">
