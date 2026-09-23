@@ -501,7 +501,7 @@
   <h2>Improving Engineering Insights to Reduce Anthropogenic Impact</h2>
 
   <div class="research-block">
-    <h3>Biochar Application to Reduce Methyl Mercury Bioaccumulation</h3>
+    <h3>Activated Carbon Application to Reduce Methyl Mercury Bioaccumulation</h3>
     <p>
       Investigating the use of activated carbon as a sediment amendment to reduce
       methyl mercury bioaccumulation from moderately contaminated sediments.
