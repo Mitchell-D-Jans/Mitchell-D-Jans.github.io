@@ -486,7 +486,7 @@
   <div class="research-block">
     <h3>Biochar Application to Reduce Methyl Mercury Bioaccumulation</h3>
     <p>
-      Investigating the use of biochar (activated carbon) as a sediment amendment to reduce
+      Investigating the use of activated carbon as a sediment amendment to reduce
       methyl mercury bioaccumulation from moderately contaminated sediments.
     </p>
     <figure>
@@ -517,7 +517,7 @@
   <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
-      (Upcoming) N.W Johnson, D.H. Breneman, <strong>M.D. Jans</strong>, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
+      (Upcoming) N.W. Johnson, D.H. Breneman, <strong>M.D. Jans</strong>, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
@@ -537,7 +537,7 @@
       , 8th Biot Conference on Poromechanics.
     </li>
     <li>
-       I.C. Bourg, F.J Carrillo,<strong> M.D. Jans</strong> (2025). <em>Simulation of Biofilm Deformation Under Flow</em>.
+       I.C. Bourg, F.J. Carrillo,<strong> M.D. Jans</strong> (2025). <em>Simulation of Biofilm Deformation Under Flow</em>.
        , 8th Biot Conference on Poromechanics.
     </li>
     <li>
