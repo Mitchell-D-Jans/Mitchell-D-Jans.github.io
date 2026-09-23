@@ -337,6 +337,12 @@
   border-radius: 6px;
   overflow: hidden;
 }
+.resume-embed__frame iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
   </style>
 </head>
 <body>
