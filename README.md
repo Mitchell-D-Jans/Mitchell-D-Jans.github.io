@@ -525,7 +525,7 @@
   <h2>Publications</h2>
   <ul class="ref-list">
     <li>
-      <strong>M.D. Jans</strong>, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A micro-continuum physics-based model for cohesive sediment gravity flows across mudslide, mudflow, and turbidity current regimes</em>, In-revision.
+      <strong>M.D. Jans</strong>, C. Soulaine, J.Q. Yang, I.C. Bourg (2026). <em>A Micro-continuum Physics-based Model for Cohesive Sediment Gravity Flows across Mudslide, Mudflow, and Turbidity Current Regimes</em>, In-revision.
     </li>
     <li>
       <strong>M.D. Jans</strong>, J.Q. Yang, C. Soulaine, I.C. Bourg (2026). <em>Poromechanical Controls on Cohesive Sediment Bed Erosion: A Micro-continuum Study Across Salinity Gradients</em>, In-Prep.
