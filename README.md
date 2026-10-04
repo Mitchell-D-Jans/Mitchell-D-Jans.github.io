@@ -73,7 +73,7 @@
     /* ── Tab nav ── */
     .tab-nav {
       display: flex;
-      justify-content: center;
+      justify-content: safe center;
       gap: 0;
       margin-top: 2rem;
       border-top: 1px solid var(--rule);
@@ -422,7 +422,6 @@
         <figcaption>Sea Trout (Salmo trutta trutta) from Baltic Sea, Denmark</figcaption>
       </figure>
     </div>
-  </div>
 </section>
 
 <!-- ═══ RESEARCH ═══ -->
@@ -534,7 +533,7 @@
   <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
-    (Upcoming)<strong>M.D. Jans</strong>, I.C. Bourg (2026). <em>Influence of EPS and Thixotropy on Cohesive Sediment Transport: Rheological Characterization and Meter-Scale Simulations</em>.
+    (Upcoming) <strong>M.D. Jans</strong>, I.C. Bourg (2026). <em>Influence of EPS and Thixotropy on Cohesive Sediment Transport: Rheological Characterization and Meter-Scale Simulations</em>.
     ,American Geophysical Union 2026 Annual Meeting.
     </li>
     <li>
