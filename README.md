@@ -490,7 +490,7 @@
       <figcaption>Adapted from Jans (2020).</figcaption>
     </figure>
     <p>
-    This data was shared at the University of Minnesota's Virtual Undergraduate Research Symposium in 2020 and this work was in collaboration with Dr. Chanlan Chun (University of Minnesota Duluth and Natural Resources Research Institute), Dr. Christopher Filstrup (Natural Resources Research Institute) and Tom Hollenhorst (United States Environmental Protection Agency).
+    This data was shared at the University of Minnesota's Virtual Undergraduate Research Symposium in 2020 and was done in collaboration with Dr. Chanlan Chun (University of Minnesota Duluth and Natural Resources Research Institute), Dr. Christopher Filstrup (Natural Resources Research Institute) and Tom Hollenhorst (United States Environmental Protection Agency).
       </p>
   </div>
 
