@@ -479,6 +479,11 @@
 
   <div class="research-block">
     <h3>Historic Water Quality</h3>
+        <p>
+      Understanding historic water quality is important to contextualize governmental regulations and how land-use and anthropogenic activities impact our shared environment. 
+    </p>
+    <p>
+      This research evaluated historic water quality (~1958-1959) in Lake Superior and its tributaries by compiling data from the School of Public Health at the University of Minnesota and more recent findings from the Minnesota Pollution Control Agency. We found significant improvement in water quality for industry-affected rivers (such as the St. Louis) with mid-summer dissolved oxygen levels increasing dramatically from mid-century lows. Lake Superior did not appear to have significant trends in evaluated water quality parameters. This data was shared at the University of Minnesota's Virtual Undergraduate Research Symposium in 2020. This work was in collaboration with Dr. Chanlan Chun (University of Minnesota Duluth and Natural Resources Research Institute), Dr. Christopher Filstrup (Natural Resources Research Institute) and Tom Hollenhorst (United States Environmental Protection Agency). 
     <figure>
       <img class="fig" src="/St_Louis_River_WaterQualityHistory.png" alt="St. Louis River historical water quality data">
       <figcaption>Adapted from Jans (2020).</figcaption>
@@ -487,7 +492,7 @@
 
   <div class="research-block">
     <h3>Monitoring Surface Water Quality and Temperature</h3>
-    <p>Ongoing work monitoring surface water quality and temperature dynamics in temperate lake and river systems.</p>
+    <p>This is ongoing work monitoring surface water quality and temperature dynamics in temperate lake and river systems. The intention of this work is to provide a long-term high-frequency temperature and water level record for the lake. </p>
       <figure>
       <img class="fig" src="/LakeTemp.png">
       <figcaption>Ongoing surface water temperature monitoring in central Minnesota lake.</figcaption>
@@ -541,7 +546,7 @@
       ,2027 Battelle Sediments Conference.
     </li>
     <li>
-      (Upcoming) <strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
+      (<strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
       ,2026 Minnesota Water Resources Conference.
     </li>
     <li>
@@ -617,9 +622,6 @@
       </div>
     </a>
 
-</div>
-</section>
-
 <script>
   function switchTab(id, btn) {
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
@@ -629,5 +631,3 @@
   }
 </script>
 
-</body>
-</html>
