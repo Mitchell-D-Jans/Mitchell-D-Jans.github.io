@@ -539,12 +539,12 @@
   <h2>Presentations</h2>
   <ul class="ref-list">
     <li>
-    (Upcoming) <strong>M.D. Jans</strong>, I.C. Bourg (2026). <em>Influence of EPS and Thixotropy on Cohesive Sediment Transport: Rheological Characterization and Meter-Scale Simulations</em>.
-    ,American Geophysical Union 2026 Annual Meeting.
-    </li>
-    <li>
       (Upcoming) N.W. Johnson, D.H. Breneman, <strong>M.D. Jans</strong>, J. Jeremiason (2027). <em>Evaluating Trends in Sediment Contamination over Three Decades of Characterization, Remediation/Restoration, and Post-Remedy Assessment in the St. Louis River AOC</em>.
       ,2027 Battelle Sediments Conference.
+    </li>
+        <li>
+    (Upcoming) <strong>M.D. Jans</strong>, I.C. Bourg (2026). <em>Influence of EPS and Thixotropy on Cohesive Sediment Transport: Rheological Characterization and Meter-Scale Simulations</em>.
+    ,American Geophysical Union 2026 Annual Meeting.
     </li>
     <li>
       (<strong>M.D. Jans</strong>, J.Q. Yang, I.C. Bourg (2026). <em>Modeling Muddy Sediment Erosion with Computational Fluid Dynamics</em>.
